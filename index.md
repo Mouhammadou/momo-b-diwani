@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Bienvenue sur la page d'assistance de l'application Diwani
+Cette application est un recueil de poèmes du grand maître Soufi Cheikh Ibrahim Niass intitulé Diwani Sitti.
+Elle a été développée afin de permettre à tous les amoureux des poèmes du maître de pouvoir accéder à ses écrits.
 
-You can use the [editor on GitHub](https://github.com/Mouhammadou/momo-b-diwani/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### A propos de l'application
 
 ```markdown
-Syntax highlighted code block
+Cette application déjà présente sur « Play store » pour la catégorie Éducation, regorge des fonctionnalités tels
+que la lecture des poèmes, une recherche textuelle (et vocale notamment dans une version future), une sélection
+de poèmes favoris, un appui long sur un vers pour partager sur les réseaux sociaux, copier ou signaler une erreur
+quelconque par mail, ajouter une note et la voir dans la liste des notes prises. Sur une note, on peut modifier le 
+contenu ou la supprimer. Aussi grâce aux paramètres de l'application, on peut afficher les vers en arabe ou en 
+français (phonétique) ou afficher les deux.
 
-# Header 1
-## Header 2
-### Header 3
+L’application est entièrement gratuite et ne contient ni des achats intégrés et/ou des abonnements.
 
-- Bulleted
-- List
+Elle est disponible sous 3 langues : français (principale), arabe et anglais selon la langue locale du téléphone.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+Elle disponible pour tous les utilisateurs possédant un smartphone de type IOS avec une version
+supérieure ou égale à 10 et dans tous les pays.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Aide ou Contact
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Mouhammadou/momo-b-diwani/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Vous avez besoin d'une aide particulière, des questions à poser, contactez-nous: <br>
+<a>mouhadoux@gmail.com</a> / <a>medinabaye35@gmail.com</a>
