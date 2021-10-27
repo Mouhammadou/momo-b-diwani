@@ -5,7 +5,7 @@ Elle a été développée afin de permettre à tous les amoureux des poèmes du 
 ### A propos de l'application
 
 ```markdown
-Cette application déjà présente sur « Play store » pour la catégorie Éducation, regorge des fonctionnalités tels
+Cette application déjà présente sur « Play store » pour la catégorie Références, regorge des fonctionnalités tels
 que la lecture des poèmes, une recherche textuelle (et vocale notamment dans une version future), une sélection
 de poèmes favoris, un appui long sur un vers pour partager sur les réseaux sociaux, copier ou signaler une erreur
 quelconque par mail, ajouter une note et la voir dans la liste des notes prises. Sur une note, on peut modifier le 
