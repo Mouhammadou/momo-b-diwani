@@ -14,6 +14,8 @@ français (phonétique) ou afficher les deux.
 
 L’application est entièrement gratuite et ne contient ni des achats intégrés et/ou des abonnements.
 
+Elle n’utilise aucune fonctionnalité HealthKit, ni de données liées à l’interactivité de HealthKit ou de ses métadonnées.
+
 Elle est disponible sous 3 langues : français (principale), arabe et anglais selon la langue locale du téléphone.
 
 Elle disponible pour tous les utilisateurs possédant un smartphone de type IOS avec une version
